@@ -1,0 +1,9 @@
+.dona{
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 800px;
+}
+.container-fluid header nav ul li a{
+    color: orange !important;
+}
